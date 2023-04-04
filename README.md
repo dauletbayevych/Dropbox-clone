@@ -20,7 +20,8 @@
 ## Installation
 ***You must open our project with cmd or terminal***
 ***
-***cd dropbox-clone***
+```cd dropbox-clone
+```
 ***
 ***npm install***
 ***
