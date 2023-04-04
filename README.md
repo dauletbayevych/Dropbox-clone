@@ -32,7 +32,5 @@ npm install
 ## Usage
 ***
 To start our project, you need to issue the command
-```
-npm run dev
-```, then you can register, open the folder and download your project.
+```npm run dev```, then you can register, open the folder and download your project.
 ***
