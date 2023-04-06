@@ -4,7 +4,6 @@
 
 ## Task
 ***
-```We did the project together```  
 ```We made the project using Firebase, TailwindCSS and Everything was written in TypeScript```
 ***
 
